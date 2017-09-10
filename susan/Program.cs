@@ -8,7 +8,7 @@ namespace susan
 {
     class Program
     {
-        public static void Main(string[] args)
+        public static void Mainaaaaa(string[] args)
         {
             Them gi do
             Them mot cai nua
