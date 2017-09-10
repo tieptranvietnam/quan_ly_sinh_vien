@@ -11,6 +11,7 @@ namespace susan
         public static void Main(string[] args)
         {
             Them gi do
+            Them mot cai nua
         }
     }
 }
